@@ -1,2 +1,11 @@
 
 /* Your CSS Code here. */
+div{
+	margin:20px;
+	border:15px solid blue;
+	padding:50px;
+	width:300px;
+	
+	background-clip: content-box;
+	box-shadow: inset 0 0 0 50px lightblue;
+}
